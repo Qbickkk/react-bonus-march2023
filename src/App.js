@@ -1,3 +1,4 @@
+import './App.css';
 import {ProductsLayout} from "./components/products /ProductsLayout";
 
 function App() {
